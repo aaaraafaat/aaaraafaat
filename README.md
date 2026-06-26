@@ -4,7 +4,7 @@
 
 🎓 **MSc Data Science & Machine Learning**, State University of Bangladesh (2025–2026, CGPA 4.00)
 🛩️ **Former** Bangladesh Air Force fighter pilot & flight instructor (1,246 flight hours, 566 instructional). UN service in Darfur (UNAMID).
-🎯 **Applying** for funded PhD positions in Computer Vision / HCI, Fall 2027 intake.
+🎯 **Applying** for funded PhD positions in Autonomous Systems/Computer Vision / HCI, Fall 2027 intake.
 
 ---
 
