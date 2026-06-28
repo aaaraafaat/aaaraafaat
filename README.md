@@ -1,31 +1,62 @@
-### Hi, I'm Abu Jehad Arafat 👋
+# Abu Jehad Arafat
 
-**Pilot-turned-computer-vision researcher.** I spent a decade flying fighter aircraft and instructing in degraded visual environments — fog, low light, instrument conditions where perception is the limiting factor. Now I work on the autonomous-systems version of the same problem: object detection that holds up when the weather doesn't.
+**PhD Applicant · Robust Perception for Autonomous Systems · Computer Vision**
 
-🎓 **MSc Data Science & Machine Learning**, State University of Bangladesh (2025–2026, CGPA 4.00)
-🛩️ **Former** Bangladesh Air Force fighter pilot & flight instructor (1,246 flight hours, 566 instructional). UN service in Darfur (UNAMID).
-🎯 **Applying** for funded PhD positions in Autonomous Systems/Computer Vision / HCI, Fall 2027 intake.
+📍 Dhaka, Bangladesh  ·  ✉️ [aaaraafaat@outlook.com](mailto:aaaraafaat@outlook.com)  ·  🔗 [LinkedIn](https://linkedin.com/in/aaaraafaat)
 
 ---
 
-#### 🔬 What I'm working on now
+> Seventeen years flying and instructing in safety-critical aviation — including decision-making in degraded conditions — now aimed at one question: **how do we build machine perception that stays reliable when the input does not?**
 
-My MSc thesis: **Severity-Aware Adaptive Inference for Object Detection in Degraded Visual Environments.** A physics-grounded severity estimator (dark-channel transmission for fog, FFT streak-density for rain) routes each input image to one of three detector configurations matched to its degradation regime — all at inference time, no novel architecture trained. Defending late September 2026; CVPR 2027 workshop submission to follow.
-
-The aviation framing isn't decorative. Pilots run different procedures by visibility class — IMC vs. VMC, instrument vs. visual. The thesis formalizes that operational logic for autonomous perception.
-
-➡️ **Main project:** [`msc-thesis-dve-detection`](https://github.com/aaaraafaat/msc-thesis-dve-detection) *(currently private; access on request)*
+I'm a former fighter pilot and flight instructor (F-7BG, 1,246 hrs) completing an **MSc in Data Science & Machine Learning (CGPA 4.00 / 4.00)**. My research is on **robust perception in degraded visual environments** — estimating *when* a vision system can be trusted, and characterising *why* it fails.
 
 ---
 
-#### 🛠️ Currently learning
+## 🔬 Featured research
 
-Transformer-based detection (RT-DETR), conditional inference, atmospheric scattering models, severity calibration against detector confidence drop. Plus a parallel ML-fundamentals track I work through alongside thesis code.
+### Perception-Difficulty Estimation in Degraded Visual Environments — *MSc thesis (in progress)*
+
+A **training-free, physics-based** approach to predicting per-image object-detection difficulty in adverse conditions such as fog — with **no image enhancement or restoration step**.
+
+- Scores degradation directly from image physics — **dark-channel prior, saturation, contrast, entropy**, among other cues
+- Built a **reproducible feature-extraction and data-cleaning pipeline** on the **RTTS real-fog dataset (4,322 images)**
+- Characterises where each cue **succeeds and fails** — including condition-dependent failure modes where cues are systematically misled by **night and coloured-light scenes**
+- Designed to **extend** to further degradations (e.g. rain) and additional sensing modalities
+
+**Stack:** Python · PyTorch · Ultralytics / YOLO · OpenCV · Weights & Biases
+**Supervisor:** Prof. Pintu Chandra Shil, Head, Dept. of CSE, State University of Bangladesh
+
+➡️ **[Repository →](https://github.com/aaaraafaat)**  *(code, methodology & figures — being prepared for public release)*
 
 ---
 
-#### 📫 Connect
+## 🛠️ Applied R&D — training technology, simulation & systems integration
+*Bangladesh Air Force*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaaraafaat/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaaraafaat@outlook.com)
-📍 Dhaka, Bangladesh
+- **Flight-training simulator (PT-6 / PC-based AVTD), 2024–2025** — *project lead.* Integrated COTS hardware and flight-simulation software (Prepar3D, MSFS) with a custom fixed-wing model to deliver affordable, evidence-based ab-initio and part-task pilot training.
+- **VR flight simulator for combat training, 2018** — initiated and advised a virtual-reality part-task trainer; presented the concept to the Chief of Air Staff.
+- **Automated map-preparation software, 2019** — *functional manager.* Google Maps API with layered custom charts to automate mission flight-chart preparation.
+
+---
+
+## 🎯 Research interests
+
+- **Robust machine perception in degraded visual environments** — object detection and perception-difficulty estimation under fog, rain, and low visibility for autonomous driving and aerial robotics
+- **Full-stack autonomy** — extending perception toward state estimation, control, and planning for autonomous vehicles and unmanned aerial systems
+- **Simulation, synthetic data, and sim-to-real transfer** for safety-critical and human-in-the-loop systems
+
+---
+
+## 🧰 Tools
+
+`Python` · `PyTorch` · `OpenCV` · `NumPy / pandas` · `scikit-learn / SciPy` · `Ultralytics / YOLO` · `Weights & Biases` · `Git` · `LaTeX / Overleaf`
+
+---
+
+## 📫 Contact
+
+- ✉️ **Email:** [aaaraafaat@outlook.com](mailto:aaaraafaat@outlook.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/aaaraafaat](https://linkedin.com/in/aaaraafaat)
+- 📄 **CV:** available on request
+
+<sub>Best in Flying Trophy, Bangladesh Air Force Academy · United Nations Medal (UNAMID) · TOEFL iBT 103/120 (C1)</sub>
