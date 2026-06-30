@@ -44,6 +44,7 @@ A **training-free, physics-based** approach to predicting per-image object-detec
     </td>
   </tr>
 </table>
+
 **Flight-training simulator (PT-6 / PC-based AVTD), 2024–2025** — *project lead.* Integrated COTS hardware and flight-simulation software (Prepar3D, MSFS) with a custom fixed-wing model to deliver affordable, evidence-based ab-initio and part-task pilot training.
 
  
@@ -59,6 +60,7 @@ A **training-free, physics-based** approach to predicting per-image object-detec
     </td>
   </tr>
 </table>
+
 **VR flight simulator for combat training, 2018** — initiated and advised a virtual-reality part-task trainer; presented the concept to the Chief of Air Staff.
 
 
@@ -72,6 +74,7 @@ A **training-free, physics-based** approach to predicting per-image object-detec
     
   </tr>
 </table>
+
 **Flight Planning Tool, 2019** — *functional manager.* Google Maps API with layered custom charts to automate mission flight-chart preparation.
 ---
 
