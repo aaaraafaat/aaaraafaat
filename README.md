@@ -34,7 +34,6 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 *Bangladesh Air Force*
 
 - **Flight-training simulator (PT-6 / PC-based AVTD), 2024–2025** — *project lead.* Integrated COTS hardware and flight-simulation software (Prepar3D, MSFS) with a custom fixed-wing model to deliver affordable, evidence-based ab-initio and part-task pilot training.
-- 
 
 <h3 align="center"><b>PC Based Aviation Training Device</b></h3>
 
@@ -51,7 +50,7 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 
 
 - **VR flight simulator for combat training, 2018** — initiated and advised a virtual-reality part-task trainer; presented the concept to the Chief of Air Staff.
-- 
+  
 <h3 align="center"><b>VR Combat Simulator</b></h3>
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
