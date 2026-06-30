@@ -31,9 +31,6 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 ---
 
 ## 🛠️ Applied R&D — training technology, simulation & systems integration
-*Bangladesh Air Force*
-
-- **Flight-training simulator (PT-6 / PC-based AVTD), 2024–2025** — *project lead.* Integrated COTS hardware and flight-simulation software (Prepar3D, MSFS) with a custom fixed-wing model to deliver affordable, evidence-based ab-initio and part-task pilot training.
 
 <h3 align="center"><b>PC Based Aviation Training Device</b></h3>
 
@@ -47,10 +44,9 @@ A **training-free, physics-based** approach to predicting per-image object-detec
     </td>
   </tr>
 </table>
+- **Flight-training simulator (PT-6 / PC-based AVTD), 2024–2025** — *project lead.* Integrated COTS hardware and flight-simulation software (Prepar3D, MSFS) with a custom fixed-wing model to deliver affordable, evidence-based ab-initio and part-task pilot training.
 
-
-- **VR flight simulator for combat training, 2018** — initiated and advised a virtual-reality part-task trainer; presented the concept to the Chief of Air Staff.
-  
+ 
 <h3 align="center"><b>VR Combat Simulator</b></h3>
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
@@ -63,8 +59,8 @@ A **training-free, physics-based** approach to predicting per-image object-detec
     </td>
   </tr>
 </table>
+- **VR flight simulator for combat training, 2018** — initiated and advised a virtual-reality part-task trainer; presented the concept to the Chief of Air Staff.
 
-- **Flight Planning Tool, 2019** — *functional manager.* Google Maps API with layered custom charts to automate mission flight-chart preparation.
 
 <h3 align="center"><b>Flight Plannning Tool</b></h3>
 
@@ -76,7 +72,7 @@ A **training-free, physics-based** approach to predicting per-image object-detec
     
   </tr>
 </table>
-
+- **Flight Planning Tool, 2019** — *functional manager.* Google Maps API with layered custom charts to automate mission flight-chart preparation.
 ---
 
 ## 🎯 Research interests
