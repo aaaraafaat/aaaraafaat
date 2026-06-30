@@ -35,6 +35,18 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 
 - **Flight-training simulator (PT-6 / PC-based AVTD), 2024–2025** — *project lead.* Integrated COTS hardware and flight-simulation software (Prepar3D, MSFS) with a custom fixed-wing model to deliver affordable, evidence-based ab-initio and part-task pilot training.
 - 
+<table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none; padding: 2px;">
+      <img src="images/GOPR0100.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Setup Exterior View">
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 2px;">
+      <img src="images/PCATD.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Cockpit Interior View">
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">
   <img src="images/GOPR0100.JPG" width="45%" />
   <img src="images/PCATD.JPG" width="45%" />
