@@ -8,7 +8,7 @@
 
 > Seventeen years flying and instructing in safety-critical aviation — including decision-making in degraded conditions — now aimed at one question: **how do we build machine perception that stays reliable when the input does not?**
 
-I'm a former fighter pilot and flight instructor (F-7BG, 1,246 hrs) completing an **MSc in Data Science & Machine Learning (CGPA 4.00 / 4.00)**. My research is on **robust perception in degraded visual environments** — estimating *when* a vision system can be trusted, and characterising *why* it fails.
+I'm a former fighter pilot and flight instructor (~1300 hrs) completing an **MSc in Data Science & Machine Learning (CGPA 4.00 / 4.00)**. My research is on **robust perception in degraded visual environments** — estimating *when* a vision system can be trusted, and characterising *why* it fails.
 
 ---
 
