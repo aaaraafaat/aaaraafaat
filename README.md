@@ -23,7 +23,7 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 - Characterises where each cue **succeeds and fails** — including condition-dependent failure modes where cues are systematically misled by **night and coloured-light scenes**
 - Designed to **extend** to further degradations (e.g. rain) and additional sensing modalities
 
-**Stack:** Python · PyTorch · Ultralytics / YOLO · OpenCV · Weights & Biases
+**Stack:** Python · PyTorch · Ultralytics / YOLO · OpenCV · Weights & Biases  
 **Supervisor:** Prof. Pintu Chandra Shil, Head, Dept. of CSE, State University of Bangladesh
 
 ➡️ **[Repository →](https://github.com/aaaraafaat)**  *(code, methodology & figures — being prepared for public release)*
@@ -47,7 +47,6 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 
 **Flight-training simulator (PT-6 / PC-based AVTD), 2024–2025** — *project lead.* Integrated COTS hardware and flight-simulation software (Prepar3D, MSFS) with a custom fixed-wing model to deliver affordable, evidence-based ab-initio and part-task pilot training.
 
- 
 <h3 align="center"><b>VR Combat Simulator</b></h3>
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
@@ -63,19 +62,19 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 
 **VR flight simulator for combat training, 2018** — initiated and advised a virtual-reality part-task trainer; presented the concept to the Chief of Air Staff.
 
-
-<h3 align="center"><b>Flight Plannning Tool</b></h3>
+<h3 align="center"><b>Flight Planning Tool</b></h3>
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none; padding: 2px;">
       <img src="images/Mission Planner.png" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Setup Exterior View">
     </td>
-    
+    <td width="50%" style="border: none; padding: 2px;"></td>
   </tr>
 </table>
 
 **Flight Planning Tool, 2019** — *functional manager.* Google Maps API with layered custom charts to automate mission flight-chart preparation.
+
 ---
 
 ## 🎯 Research interests
