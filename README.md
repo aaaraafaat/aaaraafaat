@@ -57,26 +57,24 @@ A **training-free, physics-based** approach to predicting per-image object-detec
 <table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none; padding: 2px;">
-      <img src="images/GOPR0100.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Setup Exterior View">
+      <img src="images/BBD_1244.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Setup Exterior View">
     </td>
     <td width="50%" align="center" style="border: none; padding: 2px;">
-      <img src="images/PCATD.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Cockpit Interior View">
+      <img src="images/BBD_1280.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Cockpit Interior View">
     </td>
   </tr>
 </table>
 
-- **Flight Planning software, 2019** — *functional manager.* Google Maps API with layered custom charts to automate mission flight-chart preparation.
+- **Flight Planning Tool, 2019** — *functional manager.* Google Maps API with layered custom charts to automate mission flight-chart preparation.
 
-<h3 align="center"><b>Flight Plannning TOol</b></h3>
+<h3 align="center"><b>Flight Plannning Tool</b></h3>
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="50%" align="center" style="border: none; padding: 2px;">
-      <img src="images/GOPR0100.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Setup Exterior View">
+      <img src="images/Mission Planner.png" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Setup Exterior View">
     </td>
-    <td width="50%" align="center" style="border: none; padding: 2px;">
-      <img src="images/PCATD.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Cockpit Interior View">
-    </td>
+    
   </tr>
 </table>
 
