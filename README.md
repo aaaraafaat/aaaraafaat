@@ -46,11 +46,18 @@ A **training-free, physics-based** approach to predicting per-image object-detec
   </tr>
 </table>
 
+<h3 align="center"><b>PC Based Aviation Training Device</b></h3>
 
-<p align="center">
-  <img src="images/GOPR0100.JPG" width="45%" />
-  <img src="images/PCATD.JPG" width="45%" />
-</p>
+<table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none; padding: 2px;">
+      <img src="images/GOPR0100.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Setup Exterior View">
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 2px;">
+      <img src="images/PCATD.JPG" width="100%" style="display: block; border-radius: 6px;" alt="Simulator Cockpit Interior View">
+    </td>
+  </tr>
+</table>
 
 
 - **VR flight simulator for combat training, 2018** — initiated and advised a virtual-reality part-task trainer; presented the concept to the Chief of Air Staff.
