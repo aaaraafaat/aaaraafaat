@@ -74,7 +74,7 @@ Training and simulation systems built for the Air Force.
 
 2019. Google Maps API with layered custom charts, for preparing mission route and navigation charts. I was project manager & UI designer.
 
-### Wargame mission planning platform for Air Force Assets and Threats
+### Wargame planning platform for Assets and Threats
 
 <table>
   <tr>
