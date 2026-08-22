@@ -2,7 +2,7 @@
 
 Dhaka, Bangladesh · [aaaraafaat@outlook.com](mailto:aaaraafaat@outlook.com) · [LinkedIn](https://linkedin.com/in/aaaraafaat) · [CV (PDF)](cv/Arafat_CV_Academic_2026.pdf)
 
-MSc in Data Science and Machine Learning, Flying instructor and former fighter pilot. Finishing an
+MSc in Data Science and Machine Learning, Flying instructor and former fighter pilot.
 
 ---
 
