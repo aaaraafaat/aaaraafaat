@@ -91,3 +91,6 @@ Training and simulation systems built for the Air Force.
 
 `Python` · `PyTorch` · `OpenCV` · `pandas` · `scikit-learn` · `Ultralytics / YOLO` · `Git` · `LaTeX` · `Prepar3D / MSFS`
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaaraafaat&label=Profile+views&color=blue&style=flat" alt="Profile views">
+</p>
