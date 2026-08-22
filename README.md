@@ -90,3 +90,7 @@ Training and simulation systems built for the Air Force.
 ## Tools
 
 `Python` · `PyTorch` · `OpenCV` · `pandas` · `scikit-learn` · `Ultralytics / YOLO` · `Git` · `LaTeX` · `Prepar3D / MSFS`
+
+<!-- Visitor Counter with Flags and Names -->
+![Visitor Countries](https://vercel.app)
+
