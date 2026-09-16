@@ -77,7 +77,7 @@ Training and simulation systems built for the Air Force.
 
 2019. Google Maps API with layered custom charts, for preparing mission route and navigation charts. I was project manager & UI designer.
 
-### Wargame mission planning platform for Air Force Assets and Threats
+### Wargame planning platform for Assets and Threats
 
 <table>
   <tr>
@@ -93,3 +93,7 @@ Training and simulation systems built for the Air Force.
 ## Tools
 
 `Python` · `PyTorch` · `OpenCV` · `pandas` · `scikit-learn` · `Ultralytics / YOLO` · `Git` · `LaTeX` · `Prepar3D / MSFS`
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaaraafaat&label=Profile+views&color=blue&style=flat" alt="Profile views">
+</p>
