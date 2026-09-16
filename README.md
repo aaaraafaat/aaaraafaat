@@ -6,20 +6,23 @@ MSc in Data Science and Machine Learning, Flying instructor and former fighter p
 
 ---
 
+
 ## MSc thesis
 
 ### Perception-Difficulty Estimation in Degraded Visual Environments
-*In progress. Defence September 2026.*
+**Dark-Channel Fog Severity as a Safety Signal: Failure Modes and Limits on Real Fog**
+*MSc · State University of Bangladesh · Defence September 2026.*
 
-Predicting per-image object-detection difficulty in fog and low light from physics-based image cues, without training and without an enhancement step.
+Can a free, training-free physics score tell a camera-based vehicle when fog is degrading its object detector — with no labels, no training, and no enhancement step? I audit the dark-channel fog-severity score as a per-image predictor of detection difficulty, and map exactly where and why it fails on real fog.
 
-- Cues: dark-channel prior, saturation, contrast, entropy, among others
-- Feature-extraction and cleaning pipeline on RTTS, 4,322 images
-- Focus is on where each cue fails, including night scenes and coloured light
+- **Method:** dark-channel severity (ω = 0.95, 15×15 window), calibrated on 2,000 synthetic-fog images and tested on real fog — training-free, no dehazing
+- **Data:** RTTS (RESIDE), 4,322 → 4,245 images after cleaning; per-image recall from three clear-trained detectors (YOLO-nano, YOLOv8-S, RT-DETR-L) as the difficulty signal
+- **Headline result:** where the score reports "near-clear," **39.9%** of images are still detection failures; the best of 11 appearance descriptors separates them from genuinely clear scenes at only **AUC 0.686** — a false-reassurance failure mode
+- **Cues studied, and where they fail:** dark channel, saturation, contrast, entropy, upper-region contrast, and a second free estimator (colour attenuation prior) — all share the same blind spot on ordinary grey-daylight fog
 
-<!-- ONE QUANTITATIVE RESULT GOES HERE, then delete this comment. -->
+**Takeaway:** trust a high score, never a low one.
 
-Python · PyTorch · Ultralytics/YOLO · OpenCV · pandas · scikit-learn
+Python · PyTorch · Ultralytics (YOLO, RT-DETR) · OpenCV · pandas · scikit-learn · SciPy
 
 [Code and figures](https://github.com/aaaraafaat/perception-difficulty-dve)
 
