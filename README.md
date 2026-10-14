@@ -2,7 +2,8 @@
 
 Dhaka, Bangladesh · [aaaraafaat@outlook.com](mailto:aaaraafaat@outlook.com) · [LinkedIn](https://linkedin.com/in/aaaraafaat) · [CV (PDF)](cv/Arafat_CV_Academic_2026.pdf)
 
-MSc in Data Science and Machine Learning, Flying instructor and former fighter pilot.
+MSc in Data Science and Machine Learning. Flying instructor and former fighter pilot.
+Applying for a PhD (Fall 2027) in robust machine perception and safe autonomy.
 
 ---
 
@@ -11,14 +12,14 @@ MSc in Data Science and Machine Learning, Flying instructor and former fighter p
 
 ### Perception-Difficulty Estimation in Degraded Visual Environments
 **Dark-Channel Fog Severity as a Safety Signal: Failure Modes and Limits on Real Fog**
-*MSc · State University of Bangladesh · Defence September 2026.*
+*MSc · State University of Bangladesh · Degree awarded September 2026 · Paper under review at IEEE Transactions on Intelligent Vehicles.*
 
-Can a free, training-free physics score tell a camera-based vehicle when fog is degrading its object detector — with no labels, no training, and no enhancement step? I audit the dark-channel fog-severity score as a per-image predictor of detection difficulty, and map exactly where and why it fails on real fog.
+Can a free, training-free physics score tell a camera-based vehicle when fog is degrading its object detector, with no labels, no training, and no enhancement step? I audit the dark-channel fog-severity score as a per-image predictor of detection difficulty, and map exactly where and why it fails on real fog.
 
-- **Method:** dark-channel severity (ω = 0.95, 15×15 window), calibrated on 2,000 synthetic-fog images and tested on real fog — training-free, no dehazing
+- **Method:** dark-channel severity (ω = 0.95, 15×15 window), calibrated on 2,000 synthetic-fog images and tested on real fog. Training-free, no dehazing
 - **Data:** RTTS (RESIDE), 4,322 → 4,245 images after cleaning; per-image recall from three clear-trained detectors (YOLO-nano, YOLOv8-S, RT-DETR-L) as the difficulty signal
-- **Headline result:** where the score reports "near-clear," **39.9%** of images are still detection failures; the best of 11 appearance descriptors separates them from genuinely clear scenes at only **AUC 0.686** — a false-reassurance failure mode
-- **Cues studied, and where they fail:** dark channel, saturation, contrast, entropy, upper-region contrast, and a second free estimator (colour attenuation prior) — all share the same blind spot on ordinary grey-daylight fog
+- **Headline result:** where the score reports "near-clear," **39.9%** of images are still detection failures; the best of 11 appearance descriptors separates them from genuinely clear scenes at only **AUC 0.686**. This is a false-reassurance failure mode
+- **Cues studied, and where they fail:** dark channel, saturation, contrast, entropy, upper-region contrast, and a second free estimator (colour attenuation prior). All share the same blind spot on ordinary grey-daylight fog
 
 **Takeaway:** trust a high score, never a low one.
 
@@ -87,8 +88,7 @@ Training and simulation systems built for the Air Force.
 </table>
 
 2026. Web application for planning air missions in an exercise setting. Targets and mission types are selected from a data set, weapon and effect options are ranked by the number of aircraft each would cost, and aircraft to task is computed against squadron serviceability, assurance level and expected losses to defences. Made with Claude.
----
-<sub>All images and screenshots on this page are of my own work and use synthetic or illustrative data. Nothing here represents the position of any other organisation.</sub>
+
 
 ## Tools
 
@@ -97,3 +97,5 @@ Training and simulation systems built for the Air Force.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaaraafaat&label=Profile+views&color=blue&style=flat" alt="Profile views">
 </p>
+
+<sub>All images and screenshots on this page are of my own work and use synthetic or illustrative data. Nothing here represents the position of any other organisation.</sub>
